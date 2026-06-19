@@ -1,0 +1,10 @@
+.ui.form {
+    margin: 2em;
+    border-radius: 0.5em;
+    padding: 1em;
+    max-width: 50em;
+}
+
+.ui.button {
+    margin: 1em;
+}

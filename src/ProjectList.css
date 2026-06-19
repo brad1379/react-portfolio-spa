@@ -1,0 +1,10 @@
+.ui.container {
+    margin: 2em;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    padding: 1em;
+}
+
+.ui.image {
+    display: flex;
+}
