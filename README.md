@@ -2,8 +2,9 @@
 
 A single-page application for showcasing personal projects. Built with React 19 and Vite, it lets you browse a project gallery, filter by name, and add new entries on the fly.
 
-## Website Screenshot
-![React Portfolio Website](src/assets/reactportfolio.png)
+## Website Screenshots
+<img src="src/assets/reactportfolio.png" alt="portfolio" width="600">
+<img src="src/assets/reactportfolioform.png" alt="portfolio" width="480">
 
 ## Features
 

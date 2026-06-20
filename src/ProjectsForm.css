@@ -8,3 +8,18 @@
 .ui.button {
     margin: 1em;
 }
+
+.ui.labeled.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto;
+}
+svg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto;
+}

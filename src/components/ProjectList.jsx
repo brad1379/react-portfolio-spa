@@ -11,6 +11,7 @@ function ProjectList({projects}) {
         setSearch(e.target.value)
     }
 
+    // Filters the current projects based off the what's being typed in the search bar
     const projectsToDisplay = projects
         .filter((project) => project.name.toLowerCase().includes(search.toLowerCase()));
     return(

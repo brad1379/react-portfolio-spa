@@ -7,6 +7,7 @@ import './App.css';
 function App() {
   const [projectList, setProjectList] = useState(projects);
 
+  // Adds a new project to the list when the form is submitted
   function addNewProject(newProject){
     setProjectList((projectList) => [...projectList, newProject]);
   }
